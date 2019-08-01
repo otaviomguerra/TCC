@@ -29,7 +29,8 @@ $ sudo apt install python3-pip
 $ sudo pip install <biblioteca>
 ```
 
-* **OBS:** Em caso de uso do Google Colab não é necessário qualquer instalação de bibliotecas. 
+* **OBS:** Em caso de uso do Google Colab não é necessário qualquer instalação de bibliotecas.
+* **OBS2:** Em caso de dificuldade de visualização dos Notebooks no GitHub é só passar o link do mesmo para o https://nbviewer.jupyter.org/. 
 ***
 # Observação:
 
