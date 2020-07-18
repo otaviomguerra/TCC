@@ -2,7 +2,7 @@
 
 ### Este repositório guarda todos os códigos e modelos treinados, bem como informações de ambiente e configuração para reprodutibilidade do trabalho.
 
-![Alt Text](https://www.kaggleusercontent.com/kf/2715518/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..fuWOQXWD1GAhXQ0HgUN1dw.gawyfV8wwN7v_5uJFMZ0hd4Iy_i-St2jH81MwkCQjTb4xl-cr0d91X9mhAWhB4BAHsfugto0njbpt10xl9hZWaiCI0l6o9YOx9ni1gAvBCzxEsvnctT8A8I6N8XFLcvsmRqufjG91JBj1RaoEcVzNlFeOgqTk-cXXl5JZ4gj7oDcQXJ7YXZq5eD1S8Dcu5NN.OrsltsWjeiX7lIYDTRJxKg/__results___files/__results___15_0.png)
+![Alt Text](https://i.imgur.com/sDQrEp2.png)
 ***
 # Conteúdo:
 - ### [Modelos Treinados](https://github.com/otaviomguerra/TCC/tree/master/Modelos%20Treinados): Notebooks, arquitetura detalhada e Plot de Learning Curve de cada arquitetura.
@@ -32,7 +32,5 @@ $ sudo pip install <biblioteca>
 * **OBS:** Em caso de uso do Google Colab não é necessário qualquer instalação de bibliotecas.
 * **OBS2:** Em caso de dificuldade de visualização dos Notebooks no GitHub é só passar o link do mesmo para o https://nbviewer.jupyter.org/. 
 ***
-# Observação:
-
 ### Atentar para os paths dos arquivos CSV durante o processo de treinamento.
 
